@@ -8,12 +8,7 @@ using namespace std;
 int main()
 {
     //ac
-    string A;
-
-
-
-12312312312312331
-    
+    string A;    
     cin >> A;
     
 }
